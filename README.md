@@ -1,2 +1,2 @@
 # hello-world
-this is hello world to learn git
+this is a hello world to learn git
